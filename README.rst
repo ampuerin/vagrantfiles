@@ -27,7 +27,7 @@ Destroy machine::
 
     vagrant destroy
 
-Docker machine
+docker-machine
 ~~~~~~~~~~~~~~~~~~
  Ubuntu 20.04 with following pkgs::
     apt-transport-https
@@ -39,7 +39,3 @@ Docker machine
     docker-ce-cli 
     containerd.io
     docker-compose
-
-Machine2
-~~~~~~~~~~~~~~
- Specs
