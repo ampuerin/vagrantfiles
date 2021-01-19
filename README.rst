@@ -12,15 +12,19 @@ https://www.virtualbox.org
 Using Vagrantfiles
 ~~~~~~~~~~~~~~~~~~~~~
 Start machine::
+
 vagrant up
 
 Update machine::
+
 vagrant up --provision
 
 Halt machine::
+
 vagrant halt
 
 Destroy machine::
+
 vagrant destroy
 
 Docker machine
