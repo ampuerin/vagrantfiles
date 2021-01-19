@@ -1,12 +1,16 @@
-* Vagrantfiles *
+Vagrantfiles
+===============
 
-** Download and install Vagrant by Hashicorp **
+Download and install Vagrant by Hashicorp
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 https://www.vagrantup.com/downloads
 
-** Download and install Virtualbox **
+Download and install Virtualbox
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 https://www.virtualbox.org
 
-** Using Vagrantfiles **
+Using Vagrantfiles
+~~~~~~~~~~~~~~~~~~~~~
 Start machine::
 vagrant up
 
@@ -19,8 +23,9 @@ vagrant halt
 Destroy machine::
 vagrant destroy
 
-*** Docker machine ***
-Ubuntu 20.04 with following pkgs::
+Docker machine
+~~~~~~~~~~~~~~~~~~
+ Ubuntu 20.04 with following pkgs::
     apt-transport-https
     ca-certificates
     curl
@@ -31,5 +36,6 @@ Ubuntu 20.04 with following pkgs::
     containerd.io
     docker-compose
 
-***Machine2 ***
-Specs
+Machine2
+~~~~~~~~~~~~~~
+ Specs
