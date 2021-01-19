@@ -13,19 +13,19 @@ Using Vagrantfiles
 ~~~~~~~~~~~~~~~~~~~~~
 Start machine::
 
-vagrant up
+    vagrant up
 
 Update machine::
 
-vagrant up --provision
+    vagrant up --provision
 
 Halt machine::
 
-vagrant halt
+    vagrant halt
 
 Destroy machine::
 
-vagrant destroy
+    vagrant destroy
 
 Docker machine
 ~~~~~~~~~~~~~~~~~~
